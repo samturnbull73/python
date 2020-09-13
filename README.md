@@ -1,4 +1,4 @@
-# python
+# Python
 
 ### Assignment Sites
 1. https://www.geeksforgeeks.org/python-programming-examples/
