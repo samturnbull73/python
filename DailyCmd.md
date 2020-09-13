@@ -1,4 +1,6 @@
-   		Token
+### DAY 1 
+
+```
     1.Keywords
 		2.Identifiers:- 
       variable name,Function name,class name
@@ -41,7 +43,7 @@
             'jaipur'
             '''jaipur'''
             '''This is "my" 'First' Job'''
-                  
+```
 
 DAY 2
 
