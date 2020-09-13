@@ -7,48 +7,45 @@
 ### DAY 1 
 
 ```
-    1.Keywords
-		2.Identifiers:- 
-      variable name,Function name,class name
-		  1.Alphabet(a-z|A-Z|0-9| _)
+Token
+1.Keywords
+2.Identifiers:- 
+  variable name,Function name,class name
+    1.Alphabet(a-z|A-Z|0-9| _)
               abc123=10
-      2.Digits should be not start
+    2.Digits should be not start
               123abc=10
-      3.Python Keywords 
+    3.Python Keywords 
                 if=10
-      4.Case sensitive
+    4.Case sensitive
                 jaipur=10
                 Jaipur=10
                 a=10
                 If=10
-      5.no limit
+    5.no limit
                 _temp=10
-    3.Data type
-          1. int a=32768;
+3.Data type
+  1. int a=32768;
                 cout<<a;  -32768
-		            1.Decimal Form  10    0to 9     56789
-		            2.Binary Form   2     0 or 1    0b0101,0b101 0B101    bin()
-		            3.Octal Form    8     0 to 7    0o5672 or 0O456       oct()
-		            4.Hexdecimal Form 16  0 to 9    0x6789 or 0Xa         hex()
- 				         10 a A
-  				        11 b B
-                  15 f F
-                  print()
-                  id()    
-                  type()
+		1.Decimal Form  10    0to 9     56789
+		2.Binary Form   2     0 or 1    0b0101,0b101 0B101    bin()
+		3.Octal Form    8     0 to 7    0o5672 or 0O456       oct()
+		4.Hexdecimal Form 16  0 to 9    0x6789 or 0Xa         hex()
+ 			10 a A
+  			11 b B
+                	15 f F
+                	print()
+                	id()    
+                	type()
 
-          2.Float 123.456
-          
-          3.complex
-             3+5j
-          
-          4.bool 		True or False
-
-          5.str data type
-            s1="Jaipur"
-            'jaipur'
-            '''jaipur'''
-            '''This is "my" 'First' Job'''
+  2.Float 	123.456
+  3.complex	3+5j
+  4.bool 	True or False
+  5.str data type
+            	s1="Jaipur"
+            	'jaipur'
+            	'''jaipur'''
+            	'''This is "my" 'First' Job'''
 ```
 
 ### DAY 2
@@ -256,54 +253,55 @@ range(0, 10)
 ### DAY 3
 ```
 1.Arithmetic Operator
- + - * / %  // **
- floor division
-
+ 			+ - * / %  // **
+ 			floor division
 2.Relational Operator 
- < <= > >=
- if condntion:
-    statement
- else:
-    statement
+ 			< <= > >=
+ 
+3. Conditions
+			if condition:
+			    statement
+			 else:
+			    statement
 
- if condition:
-    if condition:
-
-
-if condition:
-   statement
-elif condition:
-   statement
-elif...
-
-else:
+			 if condition:
+			    if condition:
 
 
-only if statement
-if condition:
-   statement
-if condition:
-  statement;
+			if condition:
+			   statement
+			elif condition:
+   			statement
+			elif...
 
-Equality Operator
- == !=
+			else:
 
-Logical Operator
- and or not
 
- and=if both argument are True then result is True
- or=if one argument are True then result is True
- not = complement
+			only if statement
+			if condition:
+			   statement
+			if condition:
+			  statement;
 
- 0 menas False
- '' means False
+			Equality Operator
+			 == !=
 
- character input 
- alphabet Uppercase Lowercase
- digit 
- SP
- ch =a
- if a>b and  a>c
-  print("uppercase") 
+			Logical Operator
+			 and or not
+
+			 and=if both argument are True then result is True
+			 or=if one argument are True then result is True
+ 			not = complement
+
+			 0 menas False
+			 '' means False
+
+ 			character input 
+ 			alphabet Uppercase Lowercase
+			 digit 
+			 SP
+ 			ch =a
+ 			if a>b and  a>c
+			  print("uppercase") 
  ```
               
