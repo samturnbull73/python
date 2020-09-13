@@ -1,3 +1,9 @@
+ [DAY 1](https://github.com/samturnbull73/python/blob/master/DailyCmd.md#day-1)
+ 
+ [DAY 2](https://github.com/samturnbull73/python/blob/master/DailyCmd.md#day-2)
+ 
+ [DAY 3](https://github.com/samturnbull73/python/blob/master/DailyCmd.md#day-3)
+
 ### DAY 1 
 
 ```
