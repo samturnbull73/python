@@ -1,6 +1,7 @@
 # python
 
 ### Assignment Sites
-1. https://practice.geeksforgeeks.org/home/
-2. https://www.sanfoundry.com/
-3. https://codeforwin.org/
+1. https://www.geeksforgeeks.org/python-programming-examples/
+2. https://practice.geeksforgeeks.org/home/
+3. https://www.sanfoundry.com/
+4. https://codeforwin.org/
