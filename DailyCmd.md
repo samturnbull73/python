@@ -45,8 +45,9 @@
             '''This is "my" 'First' Job'''
 ```
 
-DAY 2
+### DAY 2
 
+```
 >>> s1='jaipur'
 >>> s1[0]='m'
 Traceback (most recent call last):
@@ -244,9 +245,10 @@ range(0, 10)
 16
 18
 >>>
+```
 
-
-DAY 3
+### DAY 3
+```
 1.Arithmetic Operator
  + - * / %  // **
  floor division
@@ -297,5 +299,5 @@ Logical Operator
  ch =a
  if a>b and  a>c
   print("uppercase") 
- 
+ ```
               
